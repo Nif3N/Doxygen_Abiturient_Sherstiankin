@@ -144,6 +144,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Abiturient_Class_Shersiankin.h" />
+    <ClInclude Include="Abiturient_Description.h" />
+    <ClInclude Include="Sherstiankin_Class_Abiturient.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

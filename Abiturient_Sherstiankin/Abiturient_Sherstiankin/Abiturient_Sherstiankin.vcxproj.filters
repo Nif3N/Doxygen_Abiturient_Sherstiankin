@@ -26,5 +26,11 @@
     <ClInclude Include="Abiturient_Class_Shersiankin.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Abiturient_Description.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sherstiankin_Class_Abiturient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
